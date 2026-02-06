@@ -1,0 +1,7 @@
+theme = "catppuccin_macchiato"
+
+[editor]
+true-color = true
+
+[editor.soft-wrap]
+enable = true
